@@ -1,6 +1,7 @@
 # TODOS LOS EJERCICIOS/TAREAS/PROJECTOS DE AGOSTO ESTARAN AQUI
 
 ## TAREA 1:
+## Fecha limite Ago. 17.
 
    - Asegurarse de tener una instalación de python limpia. Este [link](https://github.com/cosmostatschool/MACSS2017/blob/master/prerequisites/install_miniconda.md ) puede ser útil.
    
