@@ -8,7 +8,6 @@
 (Para sincronizar tu repositorio con el del curso ejecuta:
 git pull https://github.com/CosmoStats/cosmostats2018 master)
 
-
 ## TEMAS
 
 1.- Programación básica [pyhton/conda](https://github.com/cosmostatschool/MACSS2017/blob/master/prerequisites/install_miniconda.md)
